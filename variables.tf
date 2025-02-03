@@ -1,5 +1,5 @@
 variable "access_key" {
-    description = "AKIAR3HUOVC5W23VZBBE"
+    description = "Your Aws access key"
 }
 
 variable "secret_key" {
